@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 TEST FILE!!!
 
 Changes???
+=======
+Changes
+>>>>>>> origin/Text-File
