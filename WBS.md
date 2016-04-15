@@ -15,7 +15,7 @@
 | Produce approach & practices document|	2 days |	3 |	Wed 13/04/16 |	Thu 14/04/16
 | **_Final Deliverables_** |	29 days	| |	Mon 18/04/16 |	Thu 26/05/16
 | **Sprint 1 (Report)** |	3 wks| |		Mon 18/04/16 |	Fri 6/05/16
-| Methodology research |	2 days |	5 |	Mon 18/04/16 |	Tuesday 19/04/16
+| Methodology research |	2 days |	5 |	Mon 18/04/16 |	Tue 19/04/16
 | Draft report | 9 days | 20 | Wed 20/04/16 |	Mon 2/05/16
 | Proofreading |	2 days |	3 |	Tue 3/05/16 |	Wed 4/05/16
 | Peer review |	2 days |	2 |	Tue 3/05/16 |	Wed 4/05/16
