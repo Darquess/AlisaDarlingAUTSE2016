@@ -12,39 +12,39 @@ ___
 |              |            |  021 070 9990       | Meeting Minutes Facilitator |
 |Alisa Darling |	1119805 |	Nph5272@aut.ac.nz |	Team Member                 |
 |              |            |    021 176 1192     |Quality Assurance Manager    |
-|Brendan Lynch 	14845678    |	Xzy6291@aut.ac.nz |	Team Member                 |
+|Brendan Lynch | 14845678   | Xzy6291@aut.ac.nz   |	Team Member                 |
 |              |            |  021 180 1827       |Agenda Production Manager    |
 
 #### *Role Responsibilities*
 
-##### Team Leader:
+##### Team Leader
 > Main contact for dispute resolution. Ensures time management of team members (similar to a Scrum Master). Organises stand-up time and location.
 
-##### Team Member:
+##### Team Member
 > General member of the team responsible for producing work associated with deliverables, achieving towards successful delivery.
 
-##### GitHub Manager:
+##### GitHub Manager
 > Responsible for managing conflicting merges within master branches. Owner of repository.
 
-##### Quality Assurance Manager:
+##### Quality Assurance Manager
 > Responsible for ensuring quality of documentation and produced work is kept at a high standard.
 
-##### Meeting Minutes Facilitator:
+##### Meeting Minutes Facilitator
 > Responsible for recording the minutes of each team meeting.
 
-##### Agenda Production Manager:
+##### Agenda Production Manager
 > Responsible for preparing meeting agendas prior to each meeting.
 
 
-##### *Methods of Communication*
-```c
--	Biweekly face-to-face stand-up meetings within University grounds
--	Frequent live communications via private Facebook group as required:
+#### *Methods of Communication*
+
+> - Biweekly face-to-face stand-up meetings within University grounds
+> - Frequent live communications via private Facebook group as required:
     -	Posting on group page
-     -	Live messenger communications (texting, voice calling, video call)
+    -	Live messenger communications (texting, voice calling, video call)
 -	Mobile phone communications also accepted during instances of emergency (texting, phone calls)
 -	Email communications as required for maintaining tracking of critical points of discussion.
-```
+
 
 #### *Work Allocation Methods*
 
