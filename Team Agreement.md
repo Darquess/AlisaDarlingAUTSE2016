@@ -1,6 +1,6 @@
 # Team Agreement 
 
--------------
+
 ### Team B_Triple_A
 ___
 #### *Team Member Register*
